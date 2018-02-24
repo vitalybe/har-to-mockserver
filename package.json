@@ -1,0 +1,10 @@
+{
+  "name": "har-to-mockserver",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "mkdir-recursive": "^0.4.0"
+  }
+}
