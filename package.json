@@ -4,6 +4,7 @@
   "main": "main.js",
   "license": "MIT",
   "dependencies": {
+    "command-line-args": "^5.0.2",
     "lodash": "^4.17.5",
     "mkdir-recursive": "^0.4.0"
   }
